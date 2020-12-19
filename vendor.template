@@ -1,0 +1,14 @@
+Hey! You have a new order.
+
+New order: *#$ORDER_NUMBER*
+Company: *$COMPANY*
+Grand total: *$ORDER_SUM AED*
+Delivery date: *$DELIVERY_DATE*
+Shipping address: *$STREET, $CITY*
+
+Contact: *$CUSTOMER_NAME*
++$CUSTOMER_PHONE
+Comment: *$CUSTOMER_NOTES*
+
+To view order and *change it's status* follow this link:
+$LINK
